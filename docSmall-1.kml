@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="IconStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<PolyStyle>
+				<color>ff000000</color>
+				<outline>false</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>100021115</name>
+			<description>Description</description>
+			<ExtendedData>
+				<Data name="video">
+					<value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.922301064330469,41.594846185947183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100027699</name>
+			<description>Description</description>
+			<ExtendedData>
+				<Data name="video">
+					<value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>false</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-73.910280520173131,41.728721731454662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plastic Main</name>
+			<description>Description</description>
+			<ExtendedData>
+				<Data name="video">
+					<value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+
+				<coordinates>-73.739546850307931,41.36851001527576,0</coordinates>
+			</Point>
+		</Placemark>
+
+
+	</Document>
+</kml>
