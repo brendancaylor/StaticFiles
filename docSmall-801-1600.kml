@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
-		<Style id="IconStyle00">
+
+<Style id="IconStyle00">
 			<IconStyle>
-				<scale>0.25</scale>
 				<Icon>
-					<href>Layer0_Symbol_30d4ed80_0.png</href>
+					<href>https://raw.githubusercontent.com/brendancaylor/StaticFiles/main/Layer0_Symbol_30d4ed80_0.png</href>
 				</Icon>
 			</IconStyle>
-			<LabelStyle>
-				<color>00000000</color>
-				<scale>0</scale>
-			</LabelStyle>
-			<PolyStyle>
-				<color>ff000000</color>
-				<outline>false</outline>
-			</PolyStyle>
 		</Style>
-		<Style id="LineStyle10">
-			<LabelStyle>
-				<color>00000000</color>
-				<scale>0</scale>
-			</LabelStyle>
-			<PolyStyle>
-				<color>00000000</color>
-				<outline>false</outline>
-			</PolyStyle>
-		</Style>
+
 		<Placemark id="ID_00797">
 			<name>G791276</name>
 			<description>Description</description>
