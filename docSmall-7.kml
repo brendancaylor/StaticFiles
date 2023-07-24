@@ -12,20 +12,16 @@
 
 		<Placemark id="ID_00000">
 			<name>G703776</name>
+			<styleUrl>#IconStyle00</styleUrl>
 			<description>Description</description>
-			<ExtendedData>
-				<Data name="video">
-					<value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
-				</Data>
-			</ExtendedData>
+			<ExtendedData />
 			<Point>
 				<coordinates>-73.972870368046173,41.516052482345962,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00001">
 			<name>G703770</name>
+			<styleUrl>#IconStyle01</styleUrl>
 			<description>Description</description>
 			<ExtendedData>
 				<Data name="video">
@@ -40,6 +36,7 @@
 		</Placemark>
 		<Placemark id="ID_00002">
 			<name>G703752</name>
+			
 			<description>Description</description>
 			<ExtendedData>
 				<Data name="video">
