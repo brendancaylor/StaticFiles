@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Placemark>
-    <name>The Pentagon</name>
-    <Polygon>
-      <extrude>1</extrude>
-      <altitudeMode>relativeToGround</altitudeMode>
-      <outerBoundaryIs>
-        <LinearRing>
-          <coordinates>
-            -77.05788457660967,38.87253259892824,100 
-            -77.05465973756702,38.87291016281703,100 
-            -77.05315536854791,38.87053267794386,100 
-            -77.05552622493516,38.868757801256,100 
-            -77.05844056290393,38.86996206506943,100 
-            -77.05788457660967,38.87253259892824,100
-          </coordinates>
-        </LinearRing>
-      </outerBoundaryIs>
-      <innerBoundaryIs>
-        <LinearRing>
-          <coordinates>
-            -77.05668055019126,38.87154239798456,100 
-            -77.05542625960818,38.87167890344077,100 
-            -77.05485125901024,38.87076535397792,100 
-            -77.05577677433152,38.87008686581446,100 
-            -77.05691162017543,38.87054446963351,100 
-            -77.05668055019126,38.87154239798456,100
-          </coordinates>
-        </LinearRing>
-      </innerBoundaryIs>
-    </Polygon>
-  </Placemark>
+
+<Style id="PolyStyle540">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>7f6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7fcffade</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  
+<Placemark id="ID_540149">
+      <name>7645</name>
+      <Snippet></Snippet>
+      <styleUrl>#PolyStyle540</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -74.06406776938266,41.447552525171,0 -74.06406806332741,41.4475086116609,0 -74.06400969880298,41.44750839048211,0 -74.06400940481888,41.44755230399187,0 -74.06406776938266,41.447552525171,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+	
 </kml>
