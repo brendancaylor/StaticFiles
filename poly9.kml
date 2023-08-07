@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+
+	<Style id="PolyStyle540">
+
+		<LineStyle>
+			<color>7f6e6e6e</color>
+			<width>0.400000</width>
+		</LineStyle>
+
+	</Style>
+
+	<Style id="LineStyle10">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0.000000</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff74a600</color>
+			<width>1.000000</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	
+	
+
+	
+	<Placemark id="ID_540149">
+		<name>7645</name>
+
+		<styleUrl>#PolyStyle540</styleUrl>
+
+			<Polygon>
+				<altitudeMode>relative</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates> -74.06406776938266,41.447552525171,0 -74.06406806332741,41.4475086116609,0 -74.06400969880298,41.44750839048211,0 -74.06400940481888,41.44755230399187,0 -74.06406776938266,41.447552525171,0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+
+	</Placemark>
+	
+	<Placemark id="ID_10000">
+      <name>100007288</name>
+
+	  <styleUrl>#LineStyle10</styleUrl>
+     
+        <LineString>
+          <altitudeMode>relative</altitudeMode>
+          <coordinates>
+		  -74.064,41.44755,0
+		  -75.064,42.44755,0
+		  </coordinates>
+        </LineString>
+
+    </Placemark>
+	
+</kml>
