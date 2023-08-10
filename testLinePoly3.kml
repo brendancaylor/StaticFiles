@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Chicago Transit Map</name>
+    <description>Chicago Transit Authority train lines</description>
+
+	<Style id="testStyle">
+		<LineStyle>
+			<color>ff00ccff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	
+    <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#testStyle</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+		-73.9288379,41.70265599
+		-73.92894,41.802464
+		</coordinates>
+      </LineString>
+    </Placemark>
+
+	
+  </Document>
+</kml>
